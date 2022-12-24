@@ -2,6 +2,7 @@
 Combination of NodeJS Server and GameMaker Client
 
 This project uses websockets.
+Use this command: npm install ws
 
 Resources:
 https://telling-deposit-e41.notion.site/Multiplayer-Game-under-2-Hours-f8b45643befe47a38012983bc0301e00
